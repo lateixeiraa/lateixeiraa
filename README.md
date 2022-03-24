@@ -7,7 +7,7 @@
    - ✨ Sou voluntária no Capítulo de Robótica e Automação IEEE RAS UFCG. Conheça a RAS: <a href="https://edu.ieee.org/br-ufcgras/
 ">Site RAS!</a>   <br/>
    - 🤓 Colaboro compartilhando conteúdos sobre Robótica no <a href="https://www.instagram.com/roboosisters/">Roboosisters!</a> <br/> 
-   - ❤  Coordeno o projeto RASbóticas, que visa incentivar a participação feminina na Robótica e Automação. Conheça nosso <a href="https://github.com/lateixeiraa/Rasboticas">Repositório!</a> <br/>
+   - ❤  Coordeno o projeto RASbóticas, que visa incentivar a participação feminina na Robótica e Automação. Conheça nosso <a href="https://github.com/ras-ufcg/Rasboticas">Repositório!</a> <br/>
 </details>
 
 
