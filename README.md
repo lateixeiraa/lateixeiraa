@@ -10,6 +10,7 @@
    - ❤  Coordeno o projeto RASbóticas, que visa incentivar a participação feminina na Robótica e Automação. Conheça nosso <a href="https://github.com/ras-ufcg/Rasboticas">Repositório!</a> <br/>
 </details>
 
+![Snake animation](https://github.com/lateixeiraa/lateixeiraa/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **lateixeiraa/lateixeiraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
