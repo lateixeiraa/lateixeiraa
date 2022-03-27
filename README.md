@@ -13,6 +13,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lateixeiraa/)](https://www.linkedin.com/in/lateixeiraa/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:larissa.silva@ee.ufcg.edu.br)](larissa.silva@ee.ufcg.edu.br)
 
+[![my email](https://img.shields.io/static/v1?style=flat-square&logo=gmail&labelColor=fafafa&label=Email&message=larissa.silva@ee.ufcg.edu.br&color=red)](mailto:larissa.silva@ee.ufcg.edu.br)
+
+
 ##
 
 <div align="center">
